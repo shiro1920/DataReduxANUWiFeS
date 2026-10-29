@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: pywifes
+Version: 2.2.0
+Summary: A Python package for reduction of data from the WiFeS IFU spectrograph.
+Requires-Python: >=3.10
+Requires-Dist: astropy
+Requires-Dist: matplotlib
+Requires-Dist: numpy>=2
+Requires-Dist: pandas
+Requires-Dist: photutils>=2
+Requires-Dist: pyjson5
+Requires-Dist: scipy>=1.15.1
+Requires-Dist: setuptools
+Requires-Dist: wheel
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

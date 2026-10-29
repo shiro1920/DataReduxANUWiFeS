@@ -1,0 +1,9 @@
+astropy
+matplotlib
+numpy>=2
+pandas
+photutils>=2
+pyjson5
+scipy>=1.15.1
+setuptools
+wheel
